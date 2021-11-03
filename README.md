@@ -1,6 +1,6 @@
 ### Hello World
 
 - working at @color
-- (on hiatus) also [weekly.tf](http://weekly.tf)
+- (previously) also [weekly.tf](http://weekly.tf)
 - (out of date) personal site [theryanking.com](https://theryanking.com/)
 - tweets [@rk](https://twitter.com/rk)
